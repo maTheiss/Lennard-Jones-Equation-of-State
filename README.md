@@ -10,6 +10,7 @@ Written by: M. Theiss
 
 To-Do's:
   - VLE prevention steps
+  - comput. of the critical point 
 
 The implementation aligns with the following literature. 
 
