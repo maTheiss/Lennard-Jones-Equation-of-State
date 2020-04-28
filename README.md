@@ -1,6 +1,6 @@
 # Lennard-Jones-Equation-of-State
 
-This is a Lennard-Jones Equation of State Python-implementation of Thol et al.
+This is a Python implementation of the Lennard-Jones Equation of State of Thol et al. 
 
 Note: 
   - routines are also implemented in order to calculate the vapor-liquid equilibrium 
